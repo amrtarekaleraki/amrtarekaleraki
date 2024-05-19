@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amr Aleraki
 ===================================================================================================================================
 
-Full Stack Developer
+Software engineer
 --------------------
 
-I am a Full Stack Developer with an experience, specializing in Laravel. I have extensive experience in developing and deploying websites.
+iam a  software engineer, Interested in modern application development, scalable systems and highly distributed environments.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [amrtarekaleraki@gmail.com](mailto:amrtarekaleraki@gmail.com)
