@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software engineer
 --------------------
 
-iam a  software engineer, Interested in modern application development, scalable systems and highly distributed environments.
+Technical Product Manager with a strong software engineering background
+(full-stack development, system design, and clean architecture). Experienced in task
+prioritization, feature definition, and writing detailed technical specifications, while
+staying hands-on with engineering — translating business requirements into structured
+documentation and contributing directly to system design decisions. Brings a unique
+advantage: deep technical fluency that enables direct, informed collaboration with
+engineering teams without losing sight of business goals
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [amrtarekaleraki@gmail.com](mailto:amrtarekaleraki@gmail.com)
